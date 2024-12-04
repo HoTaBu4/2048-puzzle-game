@@ -1,0 +1,1 @@
+{"mappings":"","sources":["src/scripts/main.js"],"sourcesContent":["'use strict';\r\n\r\n// Uncomment the next lines to use your game instance in the browser\r\n// const Game = require('../modules/Game.class');\r\n// const game = new Game();\r\n\r\n// Write your code here\r\n"],"names":[],"version":3,"file":"index.cabb280d.js.map"}
