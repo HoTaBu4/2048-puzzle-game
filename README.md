@@ -4,7 +4,7 @@ A web-based implementation of the classic 2048 puzzle game, developed using **HT
 
 ## 🚀 Demo
 
-[Play the game here!](#) <!-- Replace `#` with the URL if hosted online -->
+[Play the game here!](https://hotabu4.github.io/2048-puzzle-game/)
 
 ---
 
